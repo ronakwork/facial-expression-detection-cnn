@@ -1,4 +1,4 @@
-### Convolutional Neural Network to detect human facial expressions
+## Convolutional Neural Network to detect human facial expressions
 
 ### Technologies used:
 
